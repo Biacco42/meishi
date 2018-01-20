@@ -1,10 +1,10 @@
-# Ergo42
+# Meishi
 
-**The Answer to the Ultimate Question of Life, the Universe, and at least Keyboards.**
+**Meishi - The micro macro keyboard.**
 
-7x4 ortho linear split keyboard.
+The micro macro keyboard which has only four keys for self made keyboard beginners. 
 
-![Ergo42](https://raw.githubusercontent.com/Biacco42/Ergo42/readme/readme_image/ergo42_image.jpg)
+![Meishi](https://raw.githubusercontent.com/Biacco42/meishi/readme/readme_image/P1210037.JPG)
 
 # Parts
 
