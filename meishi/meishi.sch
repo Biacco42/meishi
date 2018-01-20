@@ -33,15 +33,15 @@ LIBS:contrib
 LIBS:valves
 LIBS:promicro
 LIBS:ergo42
-LIBS:ergo42-cache
+LIBS:meishi-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Ergo42"
+Title "Meishi"
 Date ""
-Rev "1.0.0-alpha"
+Rev "1.0.0"
 Comp "Biacco42"
 Comment1 ""
 Comment2 ""
